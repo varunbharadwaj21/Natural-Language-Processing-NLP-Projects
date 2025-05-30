@@ -18,6 +18,7 @@ This project contains various Natural Language Processing (NLP) experiments and 
 - **BagOfWords.py** – Basic Bag-of-Words model.
 - **OneHot_Vectors.py** – One-hot encoding for token sequences.
 - **simpleChat.py** – A simple chatbot to extract email and phone numbers from a file.
+- **NLP** - A script of tokenisation of word in dataset.
 
 ## Requirements
 - Python 3.8+
@@ -31,7 +32,7 @@ This project contains various Natural Language Processing (NLP) experiments and 
    ```
    pip install pandas numpy nltk
    ```
-3. Open and run the notebooks using Jupyter or VSCode.
+3. Open and run the notebooks using Jupyter, VSCode or Colab.
 
 ## Note
 - Some files require local text files like `Text.txt` or a dataset CSV. Make sure to provide them in the correct path.
