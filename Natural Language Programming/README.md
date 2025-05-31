@@ -19,6 +19,7 @@ This project contains various Natural Language Processing (NLP) experiments and 
 - **OneHot_Vectors.py** – One-hot encoding for token sequences.
 - **simpleChat.py** – A simple chatbot to extract email and phone numbers from a file.
 - **NLP.ipnyb** - A script of tokenization of word in dataset.
+- **EmotionDetection.py** - Emotion detection in videos with deepface.
 
 ## Requirements
 - Python 3.8+
