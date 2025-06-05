@@ -12,7 +12,7 @@ def valid():
     mail_id = []
     rgx2 = input("Enter name of the school: ")
     
-    with open(r"D:\Hemang\Sem2\NLP\Chatbot\Text.txt", "r") as text:
+    with open("Chatbot\Text.txt", "r") as text:
         
         for line_number, line in enumerate(text, start = 1):
             print(line)
