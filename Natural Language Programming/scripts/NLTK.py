@@ -10,7 +10,7 @@ Created on Mon Mar  4 17:04:46 2024
 import nltk
 # nltk.download("punkt")
 
-filename = r"D:\Hemang\Sem2\NLP\Practical\NLTK\Text.txt"
+filename = r"NLTK\Text.txt"
 text = open(filename,"r",encoding="utf-8").read()
 
 tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
